@@ -46,8 +46,11 @@ To access the reports:
 
 ## Screenshots
 
-TODO:
-![Report Overview](screenshots/report-overview.png)
+View report
+![View Report](screencapture/Screenshot_20250511_163516.png)
+
+Print report
+![Print report](screencapture/Screenshot_20250511_163529.png)
 
 ## Development
 
