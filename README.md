@@ -99,13 +99,14 @@ This plugin complies with the EU General Data Protection Regulation (GDPR). See 
 
 This plugin is licensed under the [GNU GPL v3 or later](https://www.gnu.org/licenses/gpl-3.0.html).
 Was designed and funded by the [Department of science teaching](https://www.weizmann.ac.il/ScienceTeaching/) at the [Weizmann institute of science](https://www.weizmann.ac.il/), israel. 
-And developed for the [PeTeL](https://stwww1.weizmann.ac.il/petel/) - personalized teaching and learning envirunment ( EN ) project by [DevLion](https://devlion.co.il/).
+And developed for the [PeTeL](https://stwww1.weizmann.ac.il/petel/) - personalized teaching and learning envirunment project, and co developed by [DevLion](https://devlion.co.il/).
 
 ## Credits
 
 - Moodle System architect - Nadav Kavalerchik <nadav.kavalerchik@weizmann.ac.il>
 - Lead Developer: Oleg Ochkurenko <oleg@devlion.co>
 - Contributors: Oshrat Luski <oshrat.luski@weizmann.ac.il>, Vlad <vlad@devlion.co>
+- DevLion: [contact](https://devlion.co.il/contacts/) or via email: info@devlion.co
 
 ## Support
 
